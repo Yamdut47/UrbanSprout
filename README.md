@@ -1,4 +1,5 @@
-# 🌱 UrbanSprout
+# <img width="1254" height="1254" alt="Designer (6)" src="https://github.com/user-attachments/assets/ebcebbb8-4b07-4c12-963b-95b78e8b8848" />
+UrbanSprout
 
 A responsive gardening e-commerce website designed for urban gardeners who want to grow plants in small spaces such as balconies, rooftops, and windowsills.
 
@@ -10,7 +11,7 @@ https://urbansprout.netlify.app/
 
 ## 📖 About The Project
 
-UrbanSprout is a front-end web development project created as part of an academic coursework assignment.
+UrbanSprout is a front-end web development project.
 
 The website provides an engaging online platform where users can:
 
